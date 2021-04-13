@@ -1,0 +1,52 @@
+.UpdateEventScreen {
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10% !important;
+}
+.UpdateEventScreen span
+{
+    font-size: 12px;
+}
+.UpdateEventScreen p
+{
+    background: #c0284c;
+    padding: 3px;
+    color: white;
+    width: auto;
+}
+.UpdateEventScreen h3{
+    font-size: 14px;
+    font-weight: 900;
+    color:  #c0284c;
+    width: auto;
+    margin-left: 5%;
+}
+
+.forgotten-password
+{
+   margin-left: 25% !important;
+}
+
+.ContainerStyle {
+    padding-top: 2%;
+    padding-bottom: 3%;
+    background-color:#e3effd;
+    position: center;
+    left: 50%;
+    width: 40% !important;
+    top: 50%  !important;
+  
+}
+.MobileContainerStyle {
+    margin-top: 10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #e3effd;
+    position: center;
+    left: 50%;
+    width: 90% !important;
+    top: 250px !important;
+
+}
+
+

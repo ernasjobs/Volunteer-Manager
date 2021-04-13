@@ -1,0 +1,44 @@
+.ViewEventDetails {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-top: 20px;
+}
+
+.ViewEventDetails span
+{
+    font-size: 18px;
+    font-weight: 800;
+    color: #428bca;
+}
+.ViewEventDetails p
+{
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.ContainerStyle {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:#d8e7f3;
+    position: center;
+    left: 50%;
+    width: 40% !important;
+    margin-bottom: 20px;
+}
+.MobileContainerStyle {
+    margin-top: 10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #d8e7f3;
+    position: center;
+    left: 50%;
+    width: 90% !important;
+    top: 250px !important;
+    margin-bottom: 20px;
+}
+
+.events-div {
+    margin-top: 20px;
+}

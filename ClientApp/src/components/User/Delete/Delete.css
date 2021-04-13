@@ -1,0 +1,51 @@
+.DeleteUserScreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-top: 20px;
+}
+.DeleteUserScreen span
+{
+    font-size: 14px;
+    font-weight: bolder;
+}
+.DeleteUserScreen p
+{
+    padding: 3px;   
+    width: auto;
+}
+
+.ContainerStyle {
+    padding-top: 2%;
+    padding-bottom: 3%;
+    background-color:#d8e7f3;
+    position: center;
+    left: 50%;
+    width: 40% !important;
+    top: 50%  !important;
+  
+}
+.MobileContainerStyle {
+    margin-top: 10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #d8e7f3;
+    position: center;
+    left: 50%;
+    width: 90% !important;
+    top: 250px !important;
+
+}
+
+.mobiletextbox input{
+    width: 250px;
+    text-align: center;
+}
+.mobiletextbox{
+    width: 200px;
+}
+.mobiletextbox label{
+    margin-left: 5px;
+}
+

@@ -1,0 +1,24 @@
+.main-footer {
+    color: white;
+    background-color: #0170d1;
+    width: 100%;
+    position: absolute;
+    padding: 1.5rem;
+    margin-top: 5%;
+  }
+  .hr1
+  {
+    background-color: white; height: 1px; border: 0;
+  }
+  .copyright
+  {
+      margin-left: 20%;
+  }
+  .links
+  {
+      color: white;
+  }
+  .links:hover
+  {
+      color: white  !important;
+  }

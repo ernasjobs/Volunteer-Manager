@@ -1,0 +1,31 @@
+.PSLogo, .MobilePSLogo{
+    border-bottom: 1px solid white;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.MobilePSLogo{
+    display: none;
+}
+.test1
+{
+    width: 45%;
+    margin-top: -150px;
+    margin-left: 580%;
+    position: relative;
+}
+.test21
+{
+    width: 45%;
+    margin-top: -100px;
+    position: relative;
+}
+@media (min-width: 320px) and (max-width: 1024px) {
+    .test1 {
+        display: none;
+    }
+    .test21
+    {
+        display: none;
+    }
+}

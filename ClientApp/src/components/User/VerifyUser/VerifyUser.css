@@ -1,0 +1,60 @@
+.VerifyScreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-top: 20px;
+}
+.VerifyScreen span
+{
+    font-size: 12px;
+}
+.VerifyScreen p
+{
+    background: #c0284c;
+    padding: 3px;
+    color: white;
+    width: auto;
+}
+.VerifyScreen h3
+{
+   font-size: 14px;
+   font-weight: 900;
+   color:  #c0284c;
+    width: auto;
+}
+
+.ContainerStyle {
+    padding-top: 2%;
+    padding-bottom: 3%;
+    background-color:#d8e7f3;
+    position: center;
+    left: 50%;
+    width: 40% !important;
+    top: 50%  !important;
+    border: 2px solid #0170d1;
+}
+.MobileContainerStyle {
+    margin-top: 10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #d8e7f3;
+    position: center;
+    left: 50%;
+    width: 90% !important;
+    top: 250px !important;
+    border: 2px solid #0170d1;
+
+}
+
+.mobiletextbox input{
+    width: 250px;
+    text-align: center;
+}
+.mobiletextbox{
+    width: 200px;
+}
+.mobiletextbox label{
+    margin-left: 5px;
+}
+

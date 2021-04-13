@@ -1,0 +1,47 @@
+.ViewEventScreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.test
+{
+    top: 100%;
+    left: .2%;  
+}
+.ViewEventScreen span
+{
+    font-size: 18px;
+    font-weight: 800;
+    color: #428bca;
+}
+.ViewEventScreen p
+{
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.ContainerStyle {
+    padding-top: 2%;
+    padding-bottom: 3%;
+    background-color:#d8e7f3;
+    position: center;
+    left: 50%;
+    width: 40% !important;
+    top: 50%  !important;
+  
+}
+.MobileContainerStyle {
+    margin-top: 10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #d8e7f3;
+    position: center;
+    left: 50%;
+    width: 90% !important;
+    top: 250px !important;
+
+}
+

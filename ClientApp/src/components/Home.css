@@ -1,0 +1,69 @@
+.heroContent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .heroContent h1
+  {
+      color: white;
+      font-weight: 600;
+      line-height: 1.4;
+      letter-spacing: 0em;
+      text-transform: none;
+      font-family: inherit;
+      font-style: normal;
+      text-decoration-line: underline;
+      text-decoration-color:#0170d1 ;
+  }
+  .pHero
+  {
+    color: white;
+    font-weight: 600;
+    line-height: 1.5;
+    font-family: inherit;
+    font-style: normal;
+  }
+  .join-us
+  {
+    background-color:#ffffff;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    width: 100%;
+  }
+  .join-us h5
+  {
+      text-align: center;
+      font-size: 1.1rem;
+      color: #0170d1;
+      font-weight: bolder;
+      font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  .journey
+  {
+    background-color:#ffffff;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    width: 100%;
+    background-color:#d8e7f3;
+  }
+  .journey h4
+  {
+    text-align: center;  
+    font-family: inherit;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: bolder;
+    line-height: 1;
+    color: rgba(0,0, 0, 1);
+  }
+ .journey1
+ { margin-left: 9%;
+    margin-top: 10px;    
+}
+.pslogo
+{
+  left: 27.75% !important;
+}
+
+

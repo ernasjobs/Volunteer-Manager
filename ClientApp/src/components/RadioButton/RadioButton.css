@@ -1,0 +1,18 @@
+.radio-group input{
+    margin-left: 35%;
+}
+.radio-group label{
+    margin-left: 3%;
+}
+.radio-buttons {
+    margin-left: 10%;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.radio-buttons p
+{
+    margin-left: 250px;
+    background-color: transparent !important;
+    color: black;
+}

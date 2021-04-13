@@ -1,0 +1,14 @@
+.datetimepicker {
+    margin: 0% 29% 10px 20% !important;
+   max-width: 700px !important ;
+}
+
+.mobiledatetimepicker {
+    margin: 0% 10% 10px 20% !important;
+    max-width: 700px !important ;
+}
+.react-datetime-picker__inputGroup
+{
+    width: 200px !important;
+}
+

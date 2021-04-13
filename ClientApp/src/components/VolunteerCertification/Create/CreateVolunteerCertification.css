@@ -1,0 +1,53 @@
+.CreateVolunteerCertification {
+    
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 20% !important;
+}
+
+.CreateVolunteerCertification span
+{
+    font-size: 12px;
+}
+.CreateVolunteerCertification p
+{
+    background: #c0284c;
+    padding: 3px;
+    color: white;
+    width: auto;
+}
+.CreateVolunteerCertification h6
+{
+   font-size: 14px;
+   font-weight: 900;
+   color:  #c0284c;
+   width: auto;
+}
+.ContainerEventStyle {
+    padding-top: 2%;
+    padding-bottom: 3%;
+    background-color:#e3effd;
+    position: center;
+    left: 50%;
+    width: 40% !important;
+    top: 50%  !important;
+  
+}
+.MobileEventContainerStyle {
+    margin-top: 10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #e3effd;
+    position: center;
+    left: 50%;
+    width: 90% !important;
+    top: 250px !important;
+
+}
+
+.datetime-picker-popup
+{
+    margin-top: -250px !important;
+    margin-left : 11px !important;
+    
+}

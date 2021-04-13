@@ -1,0 +1,28 @@
+.Dropdown {
+    margin: 0% 10% 10px 2%;
+    font-family: 'Montserrat', sans-serif;
+}
+.Dropdown  select
+{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border: 2px solid black;
+    margin-left: 3%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.MobileDropdown
+{
+    margin: 0% 10% 10px 2%;
+    font-family: 'Montserrat', sans-serif;
+}
+.MobileDropdown select 
+{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border: 2px solid black;
+    margin-left: 3%;
+    font-family: 'Montserrat', sans-serif;
+}

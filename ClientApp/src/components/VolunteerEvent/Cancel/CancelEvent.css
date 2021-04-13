@@ -1,0 +1,39 @@
+.DisableUserScreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-top: 20px;
+}
+.DisableUserScreen span
+{
+    font-size: 12px;
+}
+.DisableUserScreen p
+{
+    background: #c0284c;
+    padding: 3px;
+    color: white;
+    width: auto;
+}
+
+.ContainerStyle {
+    padding-top: 2%;
+    padding-bottom: 3%;
+    background-color:#d8e7f3;
+    position: center;
+    left: 50%;
+    width: 40% !important;
+    top: 50%  !important;
+  
+}
+.MobileContainerStyle {
+    margin-top: 10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #d8e7f3;
+    position: center;
+    left: 50%;
+    width: 90% !important;
+    top: 250px !important;
+}

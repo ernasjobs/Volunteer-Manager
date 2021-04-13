@@ -1,0 +1,38 @@
+.textareabox {
+    margin: 0% 10% 10px 2%;
+    max-width: 150px;
+}
+
+.textareabox textarea {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border: 2px solid black;
+    margin-left: 5.5%;
+
+}
+
+.textareabox textarea:focus {
+    outline: none !important;
+    border: 2px solid #222d71
+}
+.mobiletextareabox {
+    margin: 0% 10% 10px 2%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.mobiletextareabox textarea {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border: 2px solid black;
+    margin-left: 3%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.mobiletextareabox textarea:focus {
+    outline: none !important;
+    border: 2px solid #222d71;
+}

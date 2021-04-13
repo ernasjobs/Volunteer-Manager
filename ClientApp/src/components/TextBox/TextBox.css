@@ -1,0 +1,38 @@
+.textbox {
+    margin: 0% 2% 10px 1%;
+    max-width: 150px;
+}
+
+.textbox input {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border: 2px solid black;
+    margin-left: 1.5%;
+
+}
+
+.textbox input:focus {
+    outline: none !important;
+    border: 2px solid #222d71
+}
+.mobiletextbox {
+    margin: 0% 10% 10px 2%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.mobiletextbox input {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border: 2px solid black;
+    margin-left: 3%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.mobiletextbox input:focus {
+    outline: none !important;
+    border: 2px solid #222d71;
+}
