@@ -2,7 +2,7 @@
 
 A Volunteer Management Application build for Peterborough Sailability
 
-Temporary Website URL: http://ernasjobs-001-site1.ctempurl.com/
+Temporary Website URL: http://fredipik-001-site1.btempurl.com/
 
 The following are the web technologies used to build this project. 
 1. React JS
